@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **remymerienne/remymerienne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Rémy Merienne
+
+I'm Rémy from France, living in Paris. I'm front-end JavaScript developer. I'm learning and progress everyday for became a full-stack developer.
+
+- 🔭 I’m currently working on Single Page Application Vanilla
+- 🌱 I’m currently learning React and Express
+- 📫 How to reach me: Twitter or email
