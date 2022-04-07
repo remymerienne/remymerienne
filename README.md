@@ -24,6 +24,8 @@ I'm Rémy from France, living in Paris. I'm front-end JavaScript developer. I'm 
 <img width="30px" style="padding-right:20px;" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img width="30px" style="padding-right:20px;" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
+<br/>
+
 ## Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remymerienne&hide=contribs,prs,stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
