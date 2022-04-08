@@ -9,7 +9,7 @@
 
 # Rémy Merienne
 
-I'm Rémy from France, living in Paris. I'm front-end JavaScript developer. I'm learning and progress everyday for became a full-stack developer.
+I'm Rémy from France, living in Paris. I'm front-end JavaScript developer. I'm learning and progress everyday for become a full-stack developer.
 
 - 🔭 I’m currently working on Single Page Application Vanilla
 - 🌱 I’m currently learning React and Express
