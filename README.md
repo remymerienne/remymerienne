@@ -27,7 +27,7 @@ I'm Rémy from France, living in Paris. I'm front-end JavaScript developer. I'm 
 <br/>
 <br/>
 
-<img width="30px" style="padding-right:20px;" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
+<img width="30px" style="padding-right:20px; margin-top:20px;" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
 <img width="30px" style="padding-right:20px;" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img width="30px" style="padding-right:20px;" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
 
