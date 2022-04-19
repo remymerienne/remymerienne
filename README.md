@@ -15,6 +15,8 @@ I'm Rémy from France, living in Paris. I'm front-end JavaScript developer. I'm 
 - 🌱 I’m currently learning React and Express
 - 📫 How to reach me: Twitter or email
 
+<br/>
+
 ## Languages and tools
 
 <img width="30px" style="padding-right:20px;" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
